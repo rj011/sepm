@@ -1,0 +1,16 @@
+{
+  "name": "sepm",
+  "version": "1.0.0",
+  "description": "College Project",
+  "main": "app.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "RSB",
+  "license": "ISC",
+  "dependencies": {
+    "express": "^4.18.1",
+    "mongodb": "^4.7.0",
+    "mongoose": "^6.4.0"
+  }
+}
